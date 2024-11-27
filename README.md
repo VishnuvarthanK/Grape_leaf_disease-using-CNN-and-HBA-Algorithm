@@ -29,6 +29,9 @@ Ensure you have Python installed (version 3.7 or above). You can download it fro
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run the file to train the image
+   ```bash
+   train_cnn.py
 3. Run the Application
    ```bash
    python app.py
